@@ -1,7 +1,7 @@
 # Project 34
 This repository contains 2 models:  
 Our 3<sup>rd</sup> and 4<sup>th</sup> research models [mmsegmentation](https://github.com/Ilite-Kiriya/semantic-models/tree/main/mmsegmentation) 
-and [DDRNet](https://bitbucket.org/kiriyachristin/comp3888_th16_03_christin/src/master/m4_DDRNet/), storing the programs for 
+and [DDRNet](https://github.com/Ilite-Kiriya/semantic-models/tree/main/m4_DDRNet), storing the programs for 
 each model and using Docker containers to create a consistent environment for them to be run in. Documentation for the individual 
 models are stored in their respective folders.   
 
