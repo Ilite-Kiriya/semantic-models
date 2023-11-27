@@ -1,4 +1,4 @@
-# Project 34
+![image](https://github.com/Ilite-Kiriya/semantic-models/assets/121276505/fc043c6b-099a-4d77-9110-5707caeb20d0)# Image Semantic Segmentation models
 This repository contains 2 models:  
 Our 3<sup>rd</sup> and 4<sup>th</sup> research models [mmsegmentation](https://github.com/Ilite-Kiriya/semantic-models/tree/main/mmsegmentation) 
 and [DDRNet](https://github.com/Ilite-Kiriya/semantic-models/tree/main/m4_DDRNet), storing the programs for 
@@ -92,9 +92,16 @@ docker run --gpus all --shm-size=8g -it -v /home/usyd-05a/data:/mmsegmentation/d
 
 - We use Tensorboards to visulize scalars (follow [instructions here](https://bitbucket.org/abstractblaze/hanet/src/master/) to install tensorboards
 
+
 ## Code Style
 As the models are predeveloped and obtained online, code style is not applicable. However any Python files created by the group will use PEP 8.
 
 ## Benchmarking
 
 README presented in the Benchmarking folder
+
+## Authors
+Docker: Kangyue(kann) Fu  
+Model 3 training/improvement: Kangyue(Kann) Fu  
+Model 4 training/improvement: [Ruoshui(Christin) Chen](https://github.com/ChristinChen233)  
+Benchmark: Jonathan Wang  
