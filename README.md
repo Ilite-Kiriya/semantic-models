@@ -1,4 +1,4 @@
-![image](https://github.com/Ilite-Kiriya/semantic-models/assets/121276505/fc043c6b-099a-4d77-9110-5707caeb20d0)# Image Semantic Segmentation models
+# Image Semantic Segmentation models
 This repository contains 2 models:  
 Our 3<sup>rd</sup> and 4<sup>th</sup> research models [mmsegmentation](https://github.com/Ilite-Kiriya/semantic-models/tree/main/mmsegmentation) 
 and [DDRNet](https://github.com/Ilite-Kiriya/semantic-models/tree/main/m4_DDRNet), storing the programs for 
