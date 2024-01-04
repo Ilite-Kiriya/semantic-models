@@ -82,7 +82,7 @@ docker cp ${CONTAINER_ID}:m4_DDRNet/m4_DDRNet/log ${the path you want to save th
 ```
 
 ### Tensorboards for visualize scalars
-1. Follow the [instruction](https://github.com/pytorch/kineto/blob/main/tb_plugin/README.md) to install the tensorboards  
+1. Follow the [instruction](https://github.com/Ilite-Kiriya/semantic-models/tree/main?tab=readme-ov-file#tensorboard) to install the tensorboards  
 2. Run command line
 ```
 tensorboard --logdir = ./log/cityscapes/${the config file name you already used to train} --bind_all
