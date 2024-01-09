@@ -46,6 +46,7 @@ jupyter notebook
 Then the terminal will show a link that allow your local machine to access the server: for instance,  http://[Server Address]:8889/
 
 [2]  Using VScode directly access to the server
+
 ipynb files can also be executable in VScode, same as the online server Jupyter Notebook. The instructions are below.
 - F1 options on VScode
 - Check Remote-SSH: Add New SSH Host: ssh [User]@[Server IP]
